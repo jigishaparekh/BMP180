@@ -1,2 +1,2 @@
 # BMP180
-the given code is for BMP180 sensor.
+The given code is to get data from sensor BMP180 using Arduino.
